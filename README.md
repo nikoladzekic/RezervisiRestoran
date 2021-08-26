@@ -1,5 +1,4 @@
 Aplikacija za mobilne uređaje izrađena pomoću programskog jezika Java u aplikaciji Android Studio
-/////////////////////////////////////
 
 //////////////////////////////////
 IDEJA APLIKACIJE
